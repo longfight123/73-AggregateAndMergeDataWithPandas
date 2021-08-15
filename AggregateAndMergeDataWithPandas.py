@@ -1,3 +1,13 @@
+"""Analyzing LEGO set data
+
+This 'script' analyzes a LEGO set dataset to answer questions such as:
+    Which LEGO themes have the most sets and when did LEGO expand its product offering?
+The analysis of the data is plotted on multiline charts with Matplotlib.
+
+This script requires that 'pandas' and 'Matplotlib' be installed within the Python
+environment you are running this script in.
+
+"""
 #!/usr/bin/env python
 # coding: utf-8
 
